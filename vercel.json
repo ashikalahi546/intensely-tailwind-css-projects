@@ -1,4 +1,7 @@
 {
+  "homepage": "src/index.html"
+},
+{
     "version": 2,
     "builds": [
         {
