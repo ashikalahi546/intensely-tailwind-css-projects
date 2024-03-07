@@ -1,18 +1,3 @@
 {
   "homepage": "src/index.html"
-},
-{
-    "version": 2,
-    "builds": [
-        {
-            "src": "./index.html",
-            "use": "@vercel/node"
-        }
-    ],
-    "routes": [
-        {
-            "src": "/(.*)",
-            "dest": "/"
-        }
-    ]
-}
+} 
